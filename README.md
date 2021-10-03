@@ -1,1 +1,1 @@
-# Deep Neural Network, from scratch.
+# Deep Neural Network
